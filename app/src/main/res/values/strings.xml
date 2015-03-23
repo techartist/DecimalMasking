@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DecimalMasking</string>
+
+    <string name="Title">Demo of Decimal Masking</string>
+    <string name="action_settings">Settings</string>
+    <string name="decimalMask">Enter in your decimal mask.  Mask can be in the form of #.# where "#" represents any number.   If you want to force a 0 at the end or beginning of the number, use a 0 in the mask like this: ###.0. Android Decimal Masking treats ###.0 as equal to #.0, but #.00 is different than #.0. </string>
+    <string name="textView2">Enter a value</string>
+    <string name="instructions">Enter a value</string>
+    <string name="maxLengthTitle">Max Length</string>
+    <string name="buttonText">Reset</string>
+</resources>
